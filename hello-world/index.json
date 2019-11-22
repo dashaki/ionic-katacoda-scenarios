@@ -25,7 +25,7 @@
       "text": "finish.md"
     },
     "assets": {
-      "host01": [
+      "client": [
         {
           "file": "index.html",
           "target": "~/"
@@ -39,7 +39,7 @@
   },
   "environment": {
     "showdashboard": true,
-    "dashboards": [{"name": "Display 80", "port": 80}, {"name": "Display 8080", "port": 8080}],
+    "dashboards": [{"name": "Hello World Application", "port": 8080}],
     "uilayout": "terminal-iframe",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
