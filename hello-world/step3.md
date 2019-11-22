@@ -1,0 +1,1 @@
+You can now use the Ionic Security data protection engine to encrypt and decrypt text.
