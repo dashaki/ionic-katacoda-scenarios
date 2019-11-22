@@ -47,7 +47,7 @@ const NS = {
     // This URL specifies the Ionic enrollment url
     // In this example 'ABcd' is the keyspace name
     Object.defineProperty(this, 'enrollmentUrl', {
-      value: 'https://someurl.ionic.com/keyspace/ABcd/register'
+      value: 'https://preview-enrollment.ionic.com/keyspace/HVzG/register'
     });
 
     this.mssgsBloc.innerHTML =
